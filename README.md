@@ -1,3 +1,3 @@
 "# ilk proje" 
-"eßitim reposu git îßreniyoruz." 
+"egitim reposu git ‚Äùogreniyoruz." 
 "# yeni ozellik" 
